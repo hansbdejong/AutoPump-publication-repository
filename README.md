@@ -1,8 +1,5 @@
 # AutoPump-publication-repository
-Code for "Autonomous underwater pumping system"
-
-Code from the Publication:
-Mucciarone, David A., Hans B. DeJong, and Robert B. Dunbar. "Autonomous underwater pumping system." HardwareX (2020): e00154.
+Code from the Publication: Mucciarone, David A., Hans B. DeJong, and Robert B. Dunbar. "Autonomous underwater pumping system." HardwareX (2020): e00154.
 (https://www.sciencedirect.com/science/article/pii/S2468067220300638)
 
 The code was written by H. DeJong and D. Mucciarone. There are 3 Arduino programs needed to run the AutoPump.
